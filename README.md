@@ -73,7 +73,7 @@ Aplicación interna con arquitectura modular para validación de datos en pipeli
   <a href="https://www.linkedin.com/in/omar-garcia-aa4030310/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"/>
   </a>
-  <a href="https://raw.githubusercontent.com/OMAR_USUARIO/OMAR_USUARIO/main/OMAR_G_CV.pdf" download>
+  <a href="https://raw.githubusercontent.com/DonOm4r/DonOm4r/main/OMAR_G_CV.pdf" download>
     <img src="https://img.shields.io/badge/Descargar%20CV-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" style="margin: 5px;"/>
   </a>
 </div>
