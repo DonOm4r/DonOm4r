@@ -26,16 +26,15 @@ Ingeniero de Sistemas con experiencia en **Ciencia de Datos y Machine Learning**
 ---
 
 ### 🛠️ Stack Tecnológico
-
 <div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" style="margin: 10px;"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" height="40" width="40" alt="AWS" style="margin: 10px; background-color:#fff; border-radius:4px; padding:2px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" style="margin: 10px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" width="40" alt="Streamlit" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" width="40" alt="Power BI" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/huggingface.svg" height="40" width="40" alt="Hugging Face" style="margin: 10px; background-color:#fff; border-radius:4px; padding:2px;"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" style="margin: 10px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" style="margin: 10px;"/>
 </div>
 
